@@ -1,2 +1,2 @@
 # AI VIRTUAL ASSISTANT
-This is the AI virtual assistant which I created using Python.
+This is the AI virtual assistant (Jarvis) which I created using Python.
