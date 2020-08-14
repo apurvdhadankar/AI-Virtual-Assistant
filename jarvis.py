@@ -45,7 +45,7 @@ def takeCommand():
         print("User said : ", query)
         
     except Exception as e:
-        #print(e)        commenting becuase its printing error in o/p
+      
         
         print("Say that again please...")
         return "None"
